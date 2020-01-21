@@ -9,9 +9,10 @@
                  [cljsjs/react-dom "15.6.1-1"]
                  [reagent "0.9.1"]
                  [re-frame "0.11.0"]
-                 ;[cljsjs/web3 "0.19.0-0"]
+                 [funcool/promesa "5.0.0"]
                  [cljs-web3 "0.19.0-0-11"]
                  [district0x.re-frame/web3-fx "1.0.5"]
+                 [district0x/bignumber "1.0.3"]
                  ]
 
   :plugins [
