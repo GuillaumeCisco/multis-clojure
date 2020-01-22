@@ -1,0 +1,1 @@
+{"version":3,"sources":["multis/config.cljs"],"mappings":";;AAEA,AAAKA,AACMC","names":["multis.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns multis.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
