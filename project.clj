@@ -11,6 +11,7 @@
                  [re-frame "0.11.0"]
                  [funcool/promesa "5.0.0"]
                  [cljs-web3 "0.19.0-0-11"]
+                 [re-frame-forms "0.1.3"]
                  [district0x.re-frame/web3-fx "1.0.5"]
                  [district0x/bignumber "1.0.3"]
                  ]

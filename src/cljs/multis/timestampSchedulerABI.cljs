@@ -1,5 +1,7 @@
 (ns multis.timestampSchedulerABI)
 
+; translation from https://github.com/ethereum-alarm-clock/eac.js-lib/blob/master/lib/build/abi/TimestampScheduler.json
+
 (def TimestampSchedulerABI #js [
  #js {
  :constant false

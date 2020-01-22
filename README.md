@@ -1,8 +1,7 @@
-# multis
+# Multis
 
-A [re-frame](https://github.com/day8/re-frame) application designed to ... well, that part is up to
-you.
-
+A [re-frame](https://github.com/day8/re-frame) application designed to allow
+ a user to send `n` ETH to an address `a` delayed by `h` hours.
 ## Getting Started
 
 ### Project Overview
